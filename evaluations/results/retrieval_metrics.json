@@ -1,0 +1,81 @@
+{
+  "evaluation_timestamp": "2026-10-10T15:21:45.167579+00:00",
+  "evaluation_cases": 6,
+  "recall_at_1": 1.0,
+  "recall_at_3": 1.0,
+  "mean_reciprocal_rank": 1.0,
+  "results": [
+    {
+      "query": "What details must an operator record when a machine stops unexpectedly?",
+      "expected_source": "equipment_downtime.md",
+      "retrieved_sources": [
+        "equipment_downtime.md",
+        "quality_defect_management.md",
+        "quality_defect_management.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Who should be notified when equipment cannot be restored using an approved procedure?",
+      "expected_source": "equipment_downtime.md",
+      "retrieved_sources": [
+        "equipment_downtime.md",
+        "quality_defect_management.md",
+        "preventive_maintenance.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "How should repeated manufacturing quality defects be investigated?",
+      "expected_source": "quality_defect_management.md",
+      "retrieved_sources": [
+        "quality_defect_management.md",
+        "quality_defect_management.md",
+        "equipment_downtime.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "What information should be documented when a product defect is identified?",
+      "expected_source": "quality_defect_management.md",
+      "retrieved_sources": [
+        "quality_defect_management.md",
+        "quality_defect_management.md",
+        "equipment_downtime.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Which indicators measure preventive maintenance performance?",
+      "expected_source": "preventive_maintenance.md",
+      "retrieved_sources": [
+        "preventive_maintenance.md",
+        "equipment_downtime.md",
+        "quality_defect_management.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "What information belongs in a preventive maintenance record?",
+      "expected_source": "preventive_maintenance.md",
+      "retrieved_sources": [
+        "preventive_maintenance.md",
+        "equipment_downtime.md",
+        "quality_defect_management.md"
+      ],
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "reciprocal_rank": 1.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RET-001",
+    "query": "What should an operator do when a coolant leak is detected?",
+    "expected_source": "safety.md"
+  },
+  {
+    "id": "RET-002",
+    "query": "What steps should be followed before restarting a production line?",
+    "expected_source": "operations.md"
+  },
+  {
+    "id": "RET-003",
+    "query": "How should a conveyor motor be inspected and maintained?",
+    "expected_source": "maintenance.md"
+  },
+  {
+    "id": "RET-004",
+    "query": "How should a defective component be documented and escalated?",
+    "expected_source": "quality.md"
+  },
+  {
+    "id": "RET-005",
+    "query": "What safety checks are required before equipment maintenance?",
+    "expected_source": "safety.md"
+  },
+  {
+    "id": "RET-006",
+    "query": "How should a production defect be recorded for quality analysis?",
+    "expected_source": "quality.md"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "query": "What details must an operator record when a machine stops unexpectedly?",
+    "expected_source": "equipment_downtime.md"
+  },
+  {
+    "query": "Who should be notified when equipment cannot be restored using an approved procedure?",
+    "expected_source": "equipment_downtime.md"
+  },
+  {
+    "query": "How should repeated manufacturing quality defects be investigated?",
+    "expected_source": "quality_defect_management.md"
+  },
+  {
+    "query": "What information should be documented when a product defect is identified?",
+    "expected_source": "quality_defect_management.md"
+  },
+  {
+    "query": "Which indicators measure preventive maintenance performance?",
+    "expected_source": "preventive_maintenance.md"
+  },
+  {
+    "query": "What information belongs in a preventive maintenance record?",
+    "expected_source": "preventive_maintenance.md"
+  }
+]
