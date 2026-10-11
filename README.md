@@ -267,4 +267,8 @@ The project is a portfolio prototype, not a certified industrial control system.
 
 Computer Science and Digitisation | AI Applications | Software Quality Assurance | Security Engineering
 
-GitHub: [nwaizugbechukwuebuka](https://github.com/nwaizugbechukwuebuka)
+[![GitHub](https://img.shields.io/badge/GitHub-Project-181717.svg?style=flat\&logo=github)](https://github.com/nwaizugbechukwuebuka/AI-Factory-Operations-Agent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat\&logo=linkedin)](https://www.linkedin.com/in/chukwuebuka-tobiloba-nwaizugbe/)
+[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord\&logoColor=white\&style=for-the-badge)](https://discord.gg/deepworksociety)
+
+</div>
